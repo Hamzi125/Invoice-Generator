@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+
+@import "tailwindcss";
+
+
+@theme {
+  --font-jom: "Jomhuria", serif;
+}
