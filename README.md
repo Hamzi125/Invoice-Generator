@@ -44,7 +44,7 @@ Das Projekt ist mit [Vue 3](https://vuejs.org/) umgesetzt.
 ## Demo
 
 Teste die App live:  
-👉 [https://einfach-rechnung.vercel.app](https://einfach-rechnung.vercel.app)
+👉 [https://einfach-rechnung.vercel.app](https://invoice-generator-nine-sigma.vercel.app/)
 
 
 ## Hinweise
